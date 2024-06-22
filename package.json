@@ -18,8 +18,8 @@
     "israel"
   ],
   "dependencies": {
-    "@ant-design/charts": "^1.4.2",
-    "@testing-library/jest-dom": "^5.17.0",
+    "@ant-design/charts": "^1.4.3",
+    "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "date-fns": "^2.30.0",
